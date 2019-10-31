@@ -1,2 +1,2 @@
-# Swizzz-Website
-nice and cool website
+# Swirl-Website
+A film school website.
